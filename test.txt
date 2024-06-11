@@ -2,6 +2,6 @@ echo " hello manoj"
 echo "hi manoj how are you "
 echo " hi i am fine"
 
-
+hello manoj
 
 echo " branch dev 1"
