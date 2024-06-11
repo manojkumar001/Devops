@@ -1,7 +1,5 @@
 echo " hello manoj"
-
 echo "hi manoj how are you "
-
 echo " hi i am fine"
 
 echo " branch dev 1"
